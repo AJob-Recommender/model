@@ -1,0 +1,290 @@
+0:IOT
+1:Field-Programmable Gate Arrays (FPGA)
+2:PCB design
+3:Autodesk Inventor
+4:Electronic Circuit Design
+5:R (Programming Language)
+6:Cybersecurity
+7:FPGA
+8:KiCAD
+9:Very-Large-Scale Integration (VLSI)
+10:Firewall
+11:Network Programming
+12:Design Verification Testing
+13:Mathematics
+14:Synopsys Primetime
+15:PSpice
+16:Computer Hardware Troubleshooting
+17:Web Development
+18:C++
+19:Circuit Design
+20:vCenter Server
+21:JavaScript
+22:Controller Area Network (CAN)
+23:Mechanical Drawings
+24:Hardware
+25:Management
+26:Assembly Language
+27:CoventorWare
+28:Python
+29:Google Cloud Platform (GCP)
+30:Strategic Planning
+31:IP
+32:c++
+33:Hardware Design
+34:Ethical Hacking
+35:Servers
+36:Microprocessors
+37:VCSA 6.7
+38:Soldering
+39:multisim
+40:Communication
+41:DDR4
+42:Electron
+43:Real-time Data Acquisition
+44:Root Cause Analysis
+45:Embedded Linux
+46:Emotional Intelligence
+47:MATLAB
+48:SQL
+49:Cadence Spectre
+50:Embedded Software
+51:8051 Microcontroller
+52:User Experience (UX)
+53:High-speed Signal Integrity
+54:Signal Processing
+55:Mathematica
+56:Electrical Engineering
+57:Image Processing
+58:Raspberry Pi
+59:Eclipse
+60:Algorithms
+61:MongoDB
+62:Printed Circuit Board (PCB) Design
+63:Test Automation
+64:Perl
+65:System Verilog
+66:Core Java
+67:Git
+68:G9
+69:G8
+70:Object-Oriented Programming (OOP)
+71:Network Administration
+72:LabVIEW
+73:Solution Architecture
+74:MT7688
+75:Data Science
+76:Hp Servers
+77:STM32
+78:Radio Frequency (RF)
+79:Microsoft Excel
+80:Server platform
+81:Computer Architecture
+82:Proteus (Digital Logic and PCB Design)
+83:Testing
+84:Presentation Skills
+85:Cascading Style Sheets (CSS)
+86:Sales
+87:SKILL Scripting
+88:Solid-State Drive (SSD)
+89:Vcenter 6.7<span class="white-space-pre"> </span>
+90:MIPS, ARM, X86
+91:Engineering
+92:Embedded C
+93:system verilog
+94:Electronics Hardware Design
+95:persian
+96:Eagle PCB
+97:PowerPoint
+98:Physics
+99:VMware ESX
+100:Debugging
+101:DNS
+102:Software Development
+103:Socket Programming
+104:Cadence PCB Editor
+105:Machine Learning
+106:Atmel Studio 6
+107:Vue.js
+108:Qt
+109:Turkish
+110:keil
+111:Clinical Monitoring
+112:Digital IC Design
+113:C#
+114:C++ Language
+115:ESP32 Microcontrollers
+116:Microsoft PowerPoint
+117:perl
+118:Leadership
+119:AVR CodeVision
+120:Wireless Technologies
+121:Computer Science
+122:Ethernet
+123:Computer Engineering
+124:RISC-V
+125:LaTeX
+126:RTL Design
+127:Operating Systems
+128:Negotiation
+129:Struts
+130:Shell Scripting
+131:Electronic Engineering
+132:AutoCAD
+133:ESXI 6.7
+134:Project Management
+135:Functional Verification
+136:HTML
+137:Unit Testing
+138:Linux
+139:Xilinx Vivado
+140:Mechatronics
+141:Visual Basic
+142:OpenMP
+143:Network Security
+144:PCB Design
+145:Storage Virtualization
+146:Embedded Systems
+147:Ruby
+148:Hardware Architecture
+149:C (Programming Language)
+150:ESP32
+151:Data Mining
+152:ARM Architecture
+153:DLMS
+154:System on a Chip (SoC)
+155:Adobe XD
+156:GNU/Linux
+157:Computer Hardware
+158:TCP/IP
+159:PCIe
+160:ARM Assembly
+161:Version Control
+162:Server Administration
+163:ARM Cortex-M
+164:Research
+165:Bash
+166:Matlab
+167:Editing
+168:Continuous Integration
+169:GSM
+170:Simulations
+171:Team Building
+172:Arduino
+173:PHP
+174:Telecommunications
+175:Orcad
+176:Software Development Life Cycle (SDLC)
+177:Public Speaking
+178:Wireless
+179:LLVM
+180:SystemVerilog
+181:tensorflow
+182:Microsoft SQL Server
+183:Yocto Project
+184:Unix
+185:Microsoft Word
+186:linux device driver
+187:Digital Signal Processors
+188:Trello
+189:Hyperlynx
+190:Cadence Schematic Capture
+191:MySQL
+192:Python (Programming Language)
+193:Altium Designer
+194:Scala
+195:VHDL
+196:Analog Signal Processing
+197:Cadence Virtuoso
+198:NI LabVIEW
+199:Microsoft Office
+200:Proteus
+201:Hibernate
+202:Verilog
+203:Integration
+204:SolidWorks
+205:Real-Time Operating Systems (RTOS)
+206:Deep Learning
+207:Visual Studio
+208:Mentor graphic
+209:Teamwork
+210:Analog Circuits
+211:Simulink
+212:Product Lifecycle Management
+213:Internet Protocol Suite (TCP/IP)
+214:Administration
+215:Artificial Neural Networks
+216:Recoil
+217:Networking
+218:python
+219:SQLite
+220:Mentor Graphics
+221:Product Development
+222:Cadence Virtuoso Layout Editor
+223:Red Hat Linux
+224:Customer Service
+225:Pspice
+226:User Interface Design
+227:Application-Specific Integrated Circuits (ASIC)
+228:Database Administration
+229:React.js
+230:Hardware Security
+231:VMware
+232:verilog
+233:Embedded Software Programming
+234:System Administration
+235:VLSI
+236:Selenium
+237:Syteline ERP
+238:Time Management
+239:CPU design
+240:Microcontrollers
+241:Node.js
+242:Account Management
+243:yocto
+244:English
+245:Photoshop
+246:Verilog(HDL)
+247:synopsys design compiler
+248:Research and Development (R&amp;D)
+249:Computer Networking
+250:Microsoft Exchange
+251:Universal Verification Methodology (UVM)
+252:Data Structures
+253:Digital Circuit Design
+254:Internet Protocol (IP)
+255:linux
+256:Software Installation
+257:LTE
+258:Agile Project Management
+259:Windows
+260:Chisel
+261:Personal Development
+262:Electronics
+263:ARM<span class="white-space-pre"> </span>
+264:Digital Electronics
+265:Cadence Encounter
+266:TypeScript
+267:Software Design
+268:xillinx ise
+269:Problem Solving
+270:Docker
+271:FreeRTOS
+272:Block Diagrams
+273:Squish
+274:ARM
+275:RTL Design &amp; Verification
+276:C
+277:Troubleshooting
+278:Java
+279:Photography
+280:Linux Kernel
+281:Memristor
+282:AVR
+283:Analog Circuit Design
+284:Routing
+285:Programming
+286:AutoCAD Mechanical
+287:Keil
+288:Switching Power Supply Design
+289:RTL Verification

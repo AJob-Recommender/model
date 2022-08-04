@@ -1,0 +1,105 @@
+0:pandas
+1:iOS Development
+2:Unreal Engine 4
+3:java
+4:Design Patterns
+5:Web Development
+6:Mobile Applications
+7:C++
+8:JavaScript
+9:Software Engineering
+10:Teaching
+11:ISO
+12:Python
+13:Strategic Planning
+14:XML
+15:CSS
+16:Ruby on Rails
+17:Software Design Patterns
+18:SQL
+19:MongoDB
+20:Android Data Binding
+21:Git
+22:SAP
+23:Object-Oriented Programming (OOP)
+24:kotlin
+25:Data Science
+26:Microsoft Excel
+27:Quality Management
+28:Swift
+29:Cascading Style Sheets (CSS)
+30:TensorFlow
+31:Engineering
+32:jQuery
+33:Software Development
+34:Debugging
+35:Qt
+36:Machine Learning
+37:Vue.js
+38:Scrum
+39:C#
+40:Microsoft PowerPoint
+41:Computer Science
+42:Shell Scripting
+43:Subversion
+44:Project Management
+45:Symbian C++
+46:Android
+47:HTML
+48:Training
+49:Linux
+50:html
+51:dagger2
+52:Manufacturing
+53:Seaborn
+54:Data Mining
+55:Agile
+56:Github
+57:Google Material Design
+58:Agile Methodologies
+59:Research
+60:Manufacturing Engineering
+61:Game Development
+62:JSON
+63:css
+64:PHP
+65:Public Speaking
+66:Microsoft SQL Server
+67:Microsoft Word
+68:MySQL
+69:Object Oriented Design
+70:Web Design
+71:VHDL
+72:Proteus
+73:Microsoft Outlook
+74:Kotlin
+75:Verilog
+76:Deep Learning
+77:Amazon Web Services (AWS)
+78:python
+79:Kanban
+80:Eclipse
+81:User Interface Design
+82:Lecturing
+83:Automotive
+84:Swift (Programming Language)
+85:Node.js
+86:Django
+87:Photoshop
+88:Automotive Engineering
+89:React Native
+90:Data Structures
+91:Symbian
+92:Visual Design
+93:Keras
+94:OOP
+95:Software Design
+96:TypeScript
+97:Ansible
+98:Automobile
+99:C
+100:Java
+101:android
+102:Android Development
+103:Android Jetpack
+104:Programming

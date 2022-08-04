@@ -1,0 +1,281 @@
+0:Haskell
+1:Routing Protocols
+2:Scrapy Framework
+3:COBIT
+4:Software Testing
+5:Oracle
+6:SQL Server Reporting Services (SSRS)
+7:Postman API
+8:IT Service Management
+9:java
+10:UFT
+11:Unity
+12:Biochemistry
+13:ERTMS
+14:Xamarin
+15:Information Technology
+16:Graphic Design
+17:Automation Testing
+18:jmeter
+19:Web Development
+20:Mobile Applications
+21:C++
+22:Design
+23:SCORM
+24:JavaScript
+25:Modeling
+26:GSM-R
+27:VMware Workstation
+28:Software Engineering
+29:REST APIs
+30:Management
+31:Teaching
+32:selenium
+33:Python
+34:XML
+35:Maya
+36:Nuke
+37:CSS
+38:Accounting
+39:Cucumber
+40:Maven
+41:After Effects
+42:HTML5
+43:Wide experience on test requirements analysis and development of test cases and
+44:Regression Testing
+45:PMBOK
+46:QA Automation
+47:Mídias sociais
+48:TestLink
+49:SQL
+50:Mobile Devices
+51:HTTP
+52:JAVA
+53:Software
+54:UML
+55:Trabalho em equipe
+56:Jira
+57:Remote User Support
+58:PCR
+59:Western Blotting
+60:Cell Biology
+61:Banking
+62:Microsoft Azure
+63:Algorithms
+64:Test Automation
+65:Git
+66:Perl
+67:Texturing
+68:WordPress Design
+69:JavaServer Pages (JSP)
+70:Team Leadership
+71:ETCS
+72:JIRA
+73:LabVIEW
+74:RUP
+75:User Experience
+76:Selenium WebDriver
+77:Hp Qualty Center
+78:PL/SQL
+79:Video Production
+80:Agile Testing
+81:Black box testing
+82:Microsoft Excel
+83:Java,c, html
+84:Multimedia
+85:Selenium Testing
+86:Outlook
+87:Xcode
+88:Português brasileiro
+89:Testing
+90:Unified Modeling Language (UML)
+91:User Scenarios
+92:SQL Server Management Studio
+93:Quality Assurance
+94:Gel Electrophoresis
+95:Putty
+96:Cascading Style Sheets (CSS)
+97:Metodologías ágiles
+98:Angular
+99:IT Management
+100:Java Database Connectivity (JDBC)
+101:Inglês
+102:PMP
+103:Android Studio
+104:Experience working with testing tools: Load Runner and Rational Performance Test
+105:test methology
+106:Cisco packet tracer
+107:jQuery
+108:PowerPoint
+109:Software Development
+110:Use Case
+111:Test Case
+112:DNS
+113:Technical Writing
+114:Scrum
+115:C#
+116:SAP Hybris
+117:Railway Systems
+118:Automated Software Testing
+119:Microsoft PowerPoint
+120:Test Cases
+121:Cell Culture
+122:Web Applications
+123:Leadership
+124:Computer Science
+125:Event Planning
+126:Windows Server
+127:Operating Systems
+128:Post Production
+129:DSL
+130:Mobile Testing
+131:Mobile Application Testing
+132:Project Management
+133:Social Media
+134:Appium
+135:Android
+136:HTML
+137:Objective-C
+138:Linux
+139:Borland Delphi
+140:Unity3D
+141:Spanish
+142:Teste de software
+143:IPv4
+144:Lifesciences
+145:SDLC
+146:Motion Graphics
+147:Experienced project manager and team leader
+148:Embedded Systems
+149:Garantia de qualidade
+150:JUnit
+151:Business Intelligence
+152:Rally
+153:Mobile Radio
+154:Netsim
+155:TCP/IP
+156:Agile Methodologies
+157:Manual Testing
+158:Databases
+159:ITIL
+160:sql
+161:Experience working with programming languages like: Java and C++
+162:Research
+163:winium
+164:Matlab
+165:Molecular Biology
+166:Editing
+167:JSON
+168:css
+169:Video Editing
+170:Telecommunications
+171:Software Development Life Cycle (SDLC)
+172:Public Speaking
+173:PSD to Wordpress
+174:Wireless Networking
+175:API Testing
+176:Microsoft SQL Server
+177:IBM Rational Performance Tester Certified Solution Designer
+178:appium
+179:Microsoft Word
+180:C (programación)
+181:ISTQB Certified Tester Foundation Level
+182:Tissue Culture
+183:MySQL
+184:Wireshark
+185:System Testing
+186:WordPress
+187:Citrix
+188:Python (Programming Language)
+189:Web Design
+190:Guitarist
+191:Rigging
+192:iOS
+193:Solid analysis, planning and time management skills as well as communication abi
+194:Spring Framework
+195:Microsoft Office
+196:Assurance qualité logiciel
+197:WebDriver
+198:Visual Studio
+199:Protractor
+200:Integration
+201:Kotlin
+202:Adobe Photoshop
+203:Software Quality Assurance
+204:Teamwork
+205:Character Animation
+206:Functional Testing
+207:WebServices
+208:Gherkin
+209:Microsoft Project
+210:python
+211:Film
+212:Rest Assured
+213:Film Production
+214:Bug Tracking
+215:Network Simulator
+216:Microscopy
+217:Internet Information Services (IIS)
+218:Software Project Management
+219:Eclipse
+220:SoapUI
+221:DHCP
+222:PMI
+223:User Interface Design
+224:Requirements Analysis
+225:React.js
+226:VMware
+227:Customer Service
+228:Flutter Driver
+229:Video
+230:Agile &amp; Waterfall Methodologies
+231:Automação de QA
+232:ClearCase
+233:Swift (Programming Language)
+234:Computer System Validation
+235:Selenium
+236:Time Management
+237:Marketing digital
+238:NetBeans
+239:Computer Graphics
+240:Node.js
+241:English
+242:Photoshop
+243:REST API
+244:Romanian
+245:Jenkins
+246:Computer Networking
+247:Instructional Design
+248:Gradle
+249:Windows
+250:Integration Testing
+251:Analyse de données
+252:QA Engineering
+253:Creative Direction
+254:Test Planning
+255:IPv6
+256:Dart
+257:Demonstrated understanding of different protocols like Java/MQ, HTTP and Web Ser
+258:3D
+259:Loans
+260:MEL
+261:ClearQuest
+262:C
+263:Java
+264:JMeter
+265:3D Modeling
+266:Photography
+267:Security Testing
+268:Zbrush
+269:Pascal
+270:Product Design
+271:Android Development
+272:Résolution de problèmes
+273:Performance and Resource Monitoring tools like: ITCAM and IntroScope
+274:TestNG
+275:Digital Sculpting
+276:Programming
+277:HP Accredited Integration Specialist. Load Runner v11
+278:Testrail
+279:User Acceptance Testing
+280:LAN-WAN

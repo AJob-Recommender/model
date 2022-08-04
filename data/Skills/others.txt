@@ -1,0 +1,2031 @@
+0:Field-Programmable Gate Arrays (FPGA)
+1:Mobile Game Development
+2:Photo Retouching
+3:DHCP server
+4:KiCAD
+5:Firewall
+6:Fabric Engine
+7:C++
+8:Online Marketing
+9:REST APIs
+10:Management
+11:Unix Operating Systems
+12:Audio Processing
+13:Google API
+14:Bash Scripting
+15:Reservoir Engineering
+16:laravel
+17:Scientific Writing
+18:Xilinx ISE
+19:Generative Adversarial Networks (GANs)
+20:redux
+21:Softimage
+22:Cordinate
+23:DSP
+24:Embedded Software
+25:SAS
+26:İş Geliştirme
+27:•	Specialize in design, implementation and optimization of Enterprise Networks,
+28:Combinatorics
+29:mssql
+30:Sketch App
+31:RDBMS
+32:Quantitative Analytics
+33:MacOSX Cocoa Development
+34:Algorithm Design
+35:Solution Architecture
+36:db2 mainframes
+37:Marketing Management
+38:C language
+39:Physical Security
+40:Industrial Automation
+41:FOSS
+42:Interior Design
+43:Cloud-Native Architecture
+44:Xcode
+45:Network Analyzer
+46:NMR spectroscopy
+47:Ambidextrous Jousting
+48:Network Optimization
+49:Experience on IBM softlayer datacentre<span class="white-space-pre"> </span>
+50:EMC Storage
+51:Security Audits
+52:Change Management
+53:MaxDB
+54:Liderlik
+55:Software Development
+56:Statistical Computing
+57:performance
+58:Optimization
+59:Arts
+60:WPF
+61:Altium
+62:Leadership
+63:Web Applications
+64:Bazy danych
+65:salenium
+66:LaTeX
+67:Talend
+68:Python programming
+69:SOC
+70:Google Cloud Platform
+71:Security Operations
+72:User Experience Testing
+73:PERC
+74:Tenable Nessus
+75:Telecommunications Engineering
+76:Rebuild &amp; Reorg Indexes
+77:Internet Security
+78:Start-ups
+79:Cisco Certified
+80:Motion Graphics
+81:Sketch (software)
+82:Tomcat
+83:Embedded Systems
+84:J2EE
+85:Release Management
+86:Nmap
+87:Tufin
+88:Animation
+89:Agile
+90:DB2
+91:Assay Development
+92:pth
+93:Database Security
+94:Version Control
+95:Manual Testing
+96:Méthodes agiles
+97:Time Study
+98:Editing
+99:Mechanical Engineering
+100:Orcad
+101:Security+
+102:GoldenGate
+103:Perl Script
+104:Program manager
+105:Tissue Culture
+106:SAN
+107:Machine Learning Algorithms
+108:Social Media Marketing
+109:iOS
+110:Analog Signal Processing
+111:CSS3
+112:Cadence Virtuoso
+113:CTF
+114:Cisco ASA
+115:Disaster Recovery
+116:Monte Carlo Simulation
+117:Artificial Neural Networks
+118:Cisco
+119:- UMTS
+120:Angular 6
+121:PaaS
+122:Cadence Virtuoso Layout Editor
+123:SoapUI
+124:Payment Card Industry Data Security Standard (PCI DSS)
+125:4G
+126:<span class="white-space-pre"> </span>Creative Problem Solving<span class="white-space-pre"> </span>
+127:Art Education
+128:Multicast
+129:Business Innovation
+130:PLSV
+131:Веб-приложения
+132:Ux design<span class="white-space-pre"> </span>
+133:Program Development
+134:Large Scale Systems
+135:Software Installation
+136:Clinical Decision Support
+137:Visual Design
+138:NodeJS
+139:Data Architecture
+140:Software Design
+141:TypeScript
+142:3D
+143:Google BigQuery
+144:General Packet Radio Service (GPRS)
+145:<span class="white-space-pre"> </span>Data Analysis<span class="white-space-pre"> </span>
+146:Pascal
+147:.Net Programmer
+148:Automation
+149:Commissioning
+150:Penetration Test
+151:User Acceptance Testing
+152:Gentoo Linux
+153:NS2
+154:Routing Protocols
+155:ZFS
+156:Military Training
+157:Control Systems Design
+158:Gulp.js
+159:Synopsys Primetime
+160:Computing
+161:Search Engine Optimization (SEO)
+162:Business Agility
+163:Women Leaders
+164:SQL replication
+165:Servers
+166:VCSA 6.7
+167:Peering
+168:IT-Service-Managment
+169:•	TCP/UDP IPV4, IP Addressing Techniques (NAT/PAT), Virtual LANs, L2 Switching,
+170:Penetration Testing
+171:Learning New Concepts
+172:Exadata
+173:Self Learning
+174:Software Requirements
+175:Illustration
+176:Radio Access Network
+177:Forensic Investigator
+178:Cryptography
+179:Sicurezza delle reti
+180:Pivot Tables<span class="white-space-pre"> </span>
+181:Statistical Programming
+182:Machine learning
+183:Texturing
+184:G9
+185:Object-Oriented Programming (OOP)
+186:Systems Analysis
+187:CCNA
+188:Frame Relay
+189:start-ups
+190:ZBrush
+191:Group Work
+192:Branding &amp; Identity
+193:Chemistry
+194:SAP R/3
+195:Bilgi Güvenliği
+196:Cheese
+197:SKILL Scripting
+198:Fargate
+199:MYSQL
+200:Electronics Hardware Design
+201:- LTE
+202:Human-computer Interaction
+203:hardware engineering
+204:Aruba Wireless
+205:Continuous Delivery
+206:Responsive Web Design
+207:Windows Presentation Foundation (WPF)
+208:Shell Scripting
+209:User Interface
+210:RIP
+211:Training
+212:Mechatronics
+213:IPv4
+214:SQL Server
+215:Шаблоны проектирования
+216:Webservices
+217:Front-end Development
+218:Data Mining
+219:Adobe XD
+220:Mobile Radio
+221:Apollo
+222:VoIP
+223:PCIe
+224:Research
+225:Team Workshops
+226:css
+227:Terraform
+228:Microsoft SQL Server
+229:Linear Algebra
+230:linux device driver
+231:Mentoring
+232:MySQL
+233:SDH
+234:IT Security Operations
+235:Adobe Creative Suite
+236:Real-Time Operating Systems (RTOS)
+237:Mainframe
+238:Weka
+239:WebServices
+240:Administration
+241:ANSYS
+242:data visualization
+243:Multiprotocol Label Switching (MPLS)
+244:Mobile Communications
+245:Network Simulator
+246:Internet Information Services (IIS)
+247:Cisco ACI
+248:VLSI
+249:Swift (Programming Language)
+250:Sicurezza
+251:Time Management
+252:Service Delivery
+253:Endorsements
+254:Symfony
+255:linux
+256:Convex Optimization
+257:Statistical Modeling
+258:ARM<span class="white-space-pre"> </span>
+259:Jupyter
+260:Watercolor
+261:Visio
+262:NestJS
+263:Memristor
+264:Programming
+265:packer
+266:Mobile Application Security
+267:SAP Business Objects
+268:Foreign Exchange (FX) Trading
+269:ADO.NET
+270:5G
+271:Biochemistry
+272:Cloud backup and recovey<span class="white-space-pre"> </span>
+273:Java Enterprise Edition
+274:Military Operations
+275:Nuke
+276:c++
+277:DDR4
+278:Financial Modeling
+279:PMBOK
+280:Application Architecture
+281:Proxy
+282:Cisco VoIP
+283:Compliance
+284:Microservices
+285:ERP
+286:Online Advertising
+287:Comunicación
+288:Electrical Engineering
+289:VTP
+290:Linux System Administration
+291:Security Consulting
+292:Business Continuity Planning
+293:Black box testing
+294:Maple
+295:WLAN
+296:UMTS
+297:Forecasting
+298:Neural Networks
+299:Computer Architecture
+300:Wireframing
+301:User Scenarios
+302:Cellular Communications
+303:LTE ADVANCED
+304:Planning
+305:Airlines
+306:Continuous Integration and Continuous Delivery (CI/CD)
+307:CodeIgniter
+308:UiPath
+309:Building Automation Systems
+310:Driving Results
+311:VAPT
+312:IT Audit
+313:Computer Games
+314:Hardware Development
+315:Event Planning
+316:Microsoft Access
+317:javascript
+318:ECSA
+319:Game Design
+320:Mobile Testing
+321:LINQ
+322:Subversion
+323:Blockchain
+324:AutoCAD
+325:MVC
+326:Cisco IOS
+327:User Experience Design
+328:Defence
+329:Storage Virtualization
+330:HL7 Standards
+331:Github
+332:High Availability Clustering
+333:InDesign
+334:Go
+335:3D Printing
+336:Transmission
+337:Wordpress
+338:Databases
+339:LAMP
+340:Server Administration
+341:Molecular Biology
+342:Firewall Administration
+343:GSM
+344:Prototyping
+345:Arduino
+346:Cisco Certified CCNA (Cisco certified internetwork expert)
+347:Software Development Life Cycle (SDLC)
+348:Public Speaking
+349:Recommender Systems
+350:Softimage ICE
+351:Fortran
+352:Trello
+353:Google Webmaster Tools
+354:Go (Programming Language)
+355:Ubuntu
+356:Microsoft Office
+357:SEO
+358:Mentor graphic
+359:Interaction Design
+360:Creative Writing
+361:Software Project Management
+362:VMware
+363:Drug Discovery
+364:Freelancer
+365:Planificación estratégica
+366:Feuilles de style en cascade (CSS)
+367:Pharmaceutical Industry
+368:Microcontrollers
+369:Texture Artist
+370:SAP BW
+371:M2000 (U2000)
+372:Angielski
+373:Personal Development
+374:Computer programming
+375:Routers
+376:hadoop
+377:Antennas
+378:Demonstrated understanding of different protocols like Java/MQ, HTTP and Web Ser
+379:Autodesk Maya
+380:U900
+381:Express.js
+382:Database Queries
+383:Microsoft Dynamics AX
+384:IPTV
+385:Résolution de problèmes
+386:Sensors
+387:LAN Switching
+388:UX
+389:AutoCAD Mechanical
+390:ADF
+391:Human Resources Information Systems (HRIS)
+392:CCNP (Cisco certified internetwork expert)
+393:CRM
+394:R (Programming Language)
+395:Mobile Games
+396:Web Development
+397:Reinforcement Learning
+398:Vendor Management
+399:Autodesk Softimage
+400:VMware Workstation
+401:Mobile Security
+402:CSS
+403:Maven
+404:Ethical Hacking
+405:Satellite Communications
+406:JDBC
+407:Network Monitoring Tools
+408:Project Management Body of Knowledge (PMBOK)
+409:Almacenamineto
+410:Western Blotting
+411:Solidworks
+412:RHEL
+413:CaaS
+414:Flume
+415:Exploit Development(103)
+416:Ccna ccnp ccie running
+417:Concept Design
+418:Human Resources
+419:Mobile Backhaul
+420:Design Management
+421:Redis
+422:Telco
+423:Usability Design
+424:Curriculum Design
+425:CCNP Certified
+426:Operational Excellence
+427:Unified Modeling Language (UML)
+428:•	Unified Communication Systems: UCS
+429:Solid-State Drive (SSD)
+430:OWASP Methodology
+431:Statistical Data Analysis
+432:Amazon Redshift
+433:Image Analysis
+434:Videography
+435:router, networking<span class="white-space-pre"> </span>
+436:Güvenlik Duvarları
+437:Cadence PCB Editor
+438:Algorithmes
+439:Amazon Web Services
+440:Logo Design
+441:Asistencia técnica
+442:Mobile Payments
+443:•	Effective Communication, Negotiation and Presentation Skills
+444:User-centered Design
+445:Windows Server
+446:Biomedical Engineering
+447:SIP
+448:Customer Support
+449:Android
+450:BMC Remedy
+451:TCL
+452:Switching
+453:Linux
+454:Predictive Analytics
+455:Discrete Mathematics
+456:Xilinx
+457:PHP4/5
+458:Auditing
+459:CVS
+460:SDLC
+461:Servicio de atención al cliente
+462:Network Security
+463:Wifi
+464:Stored Procedures
+465:LDAP
+466:Oracle Application Express
+467:Computer Hardware
+468:Veränderungsmanagement
+469:gulp
+470:Oracle Database
+471:Figma (Software)
+472:Game Scripting
+473:Business Process Design
+474:Incident Management
+475:ACL Management
+476:OPNET
+477:3D visualization
+478:Grafana
+479:LLVM
+480:MIMO
+481:Security Tools
+482:Hibernate
+483:Bug Bounty
+484:Deep Learning
+485:- GSM
+486:Education
+487:Business Strategy
+488:Cloud Security
+489:- GPRS
+490:Software Defined Networking
+491:QoS
+492:Customer Service
+493:Hardware Security
+494:ReactJS
+495:Web Services
+496:RMAN
+497:Android and IOS hacking
+498:Account Management
+499:Django
+500:REST API
+501:Romanian
+502:ANSYS HFSS
+503:JavaSE
+504:ISO 27001
+505:Agile Project Management
+506:Creative Direction
+507:Web Programming
+508:Scikit-Learn
+509:Network Technologies
+510:Visual Communication
+511:•	Confident, Problem Solver and Team Player.
+512:Process Control
+513:OOP
+514:Digital Photography
+515:Natural Language
+516:Java
+517:Product Design
+518:Routing
+519:DoD
+520:Requirements Gathering
+521:Keil
+522:Adobe Design Programs
+523:Spring b
+524:Estrategia empresarial
+525:Pattern Recognition
+526:Clojure
+527:oracle golden gate
+528:Network Programming
+529:Business Requirements
+530:Apache Tomcat
+531:Sourcing
+532:PSpice
+533:Ad Serving
+534:ASP.NET Core
+535:Business Development
+536:Software Engineering
+537:Pro*C
+538:Day Trading
+539:Teaching
+540:VMware Infrastructure
+541:Soldering
+542:Artificial Intelligence (AI)
+543:Microservices architecture
+544:Web Application Security Assessment
+545:R Programming
+546:Emotional Intelligence
+547:Online Gaming
+548:Telecomunicaciones
+549:Unternehmensanalyse
+550:Algorithms
+551:Secure Network Architecture
+552:TEMS
+553:IT-Operationen
+554:Spring Roo
+555:Network Administration
+556:User Experience
+557:Selenium WebDriver
+558:iOS development
+559:CCSP
+560:Core knowledge and experience on Cisco routers 2800,2900,1940,ASR 1000, Cisco
+561:Voice User Interface Design
+562:Data Guard
+563:Helm Charts
+564:•	Experience of System Integrator Role in multivendor environment.
+565:Presentation Skills
+566:Vray
+567:Putty
+568:Rust (Programming Language)
+569:Kubernetes
+570:Use Case
+571:Software Engineers
+572:CAML
+573:Internet Services
+574:International Business
+575:Access
+576:OCI
+577:Test Cases
+578:Cell Culture
+579:RISC-V
+580:Fine Art
+581:Software Architecture
+582:Post Production
+583:WCF
+584:International Law
+585:Electronic Engineering
+586:Sentiment Analysis
+587:django
+588:GitFlow
+589:Unified Communications
+590:html
+591:Volunteering
+592:Robotics
+593:Facebook
+594:Animation Flash
+595:Infiniband
+596:Experienced project manager and team leader
+597:Seaborn
+598:C (Programming Language)
+599:IBM Cognos Analytics
+600:Business Planning
+601:System on a Chip (SoC)
+602:Risk Assessment
+603:Administración de bases de datos
+604:Rally
+605:mongodb
+606:Control Engineering
+607:ARM Assembly
+608:iOS App Development
+609:Mongo
+610:angularjs 2
+611:3G
+612:Video Editing
+613:Ergonomics
+614:Visual Basic for Applications (VBA)
+615:tensorflow
+616:Wireless
+617:Wireless Networking
+618:API Testing
+619:IBM Rational Performance Tester Certified Solution Designer
+620:Leadership Development
+621:Operations Research
+622:Military
+623:VHDL
+624:Wireless Site Surveys
+625:Semiconductors
+626:modern C++/C++ 11
+627:Visual Basic .NET (VB.NET)
+628:SignalR
+629:Cassandra
+630:Oozie
+631:Réseaux IP
+632:Social Entrepreneurship
+633:Pig
+634:E-Learning
+635:Product Development
+636:Microscopy
+637:Enzyme
+638:System Requirements
+639:System Administration
+640:CPU design
+641:Representational State Transfer (REST)
+642:SSIS
+643:Transaction analysis
+644:Business Analytics
+645:Integration Testing
+646:Cyber Security
+647:Social Justice
+648:Security Engineering
+649:Piano Playing
+650:IPv6
+651:Dart
+652:Business Process Automation
+653:Salesforce
+654:Big Data
+655:Blogs
+656:Ansible
+657:Mercurial
+658:PicoProbe station measurements<span class="white-space-pre"> </span>
+659:3D Modeling
+660:NetOp
+661:IOT
+662:Data Migration
+663:Microondas
+664:Cisco Meraki
+665:IT Project Management
+666:Management Consulting
+667:Node JS
+668:RESTful WebServices
+669:Drive Test
+670:Creative Problem Solving
+671:Ruby on Rails
+672:Cadence Spectre
+673:机器学习
+674:Remote User Support
+675:Business Objects
+676:MongoDB
+677:SPSS
+678:Windows hacking
+679:Wire Framing
+680:Data Science
+681:Multi-channel Marketing
+682:VBA
+683:Technical Direction
+684:Rechenzentren
+685:Français
+686:Technology Solutions
+687:Quality Assurance
+688:Software development
+689:HBase
+690:Swift
+691:Strategic Partnerships
+692:Usability Testing
+693:DSA
+694:Vcenter 6.7<span class="white-space-pre"> </span>
+695:Turkish
+696:Computer Animation
+697:SAP Hybris
+698:Tableau
+699:Entity Framework
+700:Digital Forensics
+701:Atoll
+702:GraphQL
+703:Voice Acting
+704:PostgreSQL
+705:Cloud endure
+706:UI Design
+707:Systems Engineering
+708:Objective-C
+709:dagger2
+710:Manufacturing
+711:Software Development Tools
+712:Arch Linux
+713:Game Theory
+714:amazon web services certified solutions architect
+715:Satış
+716:Marine Engineering
+717:Open Source Software
+718:PRINCE2
+719:Pharmaceutics
+720:HTML<span class="white-space-pre"> </span>
+721:Agile Methodologies
+722:JSP
+723:Redes informáticas
+724:Apollo GraphQL
+725:Inglés
+726:Cassandra db
+727:Advertising
+728:Microsoft Word
+729:Multi-tenant
+730:ISTQB Certified Tester Foundation Level
+731:Express
+732:Sécurité Réseaux
+733:Serverless Computing
+734:Functional Testing
+735:Internet Protocol Suite (TCP/IP)
+736:Windows Azure
+737:python
+738:Furniture
+739:Ms Visio
+740:Microsoft Power BI
+741:Prototype Framework
+742:Embedded Software Programming
+743:Music Creation
+744:deep learning
+745:Data Structures and Algorithms
+746:Material Science &amp; Engineering
+747:Burp suit professional
+748:Game AI
+749:LTE
+750:IBM DB2
+751:Discrete Optimization
+752:Mockito
+753:Oracle E-Business Suite
+754:SAP Basis
+755:Intrusion Detection
+756:5G New Radio (NR)
+757:RTL Design &amp; Verification
+758:WCDMA (Geniş Bantlı Kod Bölümlü Çoklu Erişim)
+759:DevSecOps
+760:Marketing
+761:Posters
+762:Mathematical Modeling
+763:Performance and Resource Monitoring tools like: ITCAM and IntroScope
+764:Palo Alto Networks
+765:Collaborative Leadership
+766:docker
+767:Redux
+768:Problem Management
+769:RTL Verification
+770:Social Engineering
+771:IPSec
+772:UX/UI Design<span class="white-space-pre"> </span>
+773:KL
+774:ssis
+775:nodejs
+776:Modeling
+777:Cyber Threat Intelligence (CTI)
+778:Conformal LEC
+779:Hardware
+780:selenium
+781:Maya
+782:Hardware Design
+783:Emerging Technologies
+784:node js
+785:IT Operations
+786:Cluster
+787:Sicurezza informatica
+788:Kablosuz
+789:Mobile Devices
+790:Consulting
+791:Log Shipping
+792:Optical Communications
+793:Digital forensic
+794:Floating Production, Storage and Offloading (FPSO)
+795:System Verilog
+796:WordPress Design
+797:OpenGL
+798:Hadoop
+799:QlikView
+800:Cloud migration<span class="white-space-pre"> </span>
+801:Design Strategy
+802:Server platform
+803:数据分析
+804:Amazon CloudFront
+805:Time Mangement
+806:Hive
+807:Plotly
+808:Amazon QuickSight
+809:Oracle Collaboration Suite
+810:Secure Assist
+811:Data Integration
+812:Physics
+813:Ms Sql Server Database Administrator
+814:Cyber-security
+815:Video Game Journalism
+816:Switches
+817:Experimental Design
+818:Azure Cloud
+819:perl
+820:oop
+821:Corporate Finance
+822:Project Management
+823:SQL*Plus
+824:MPLS VPN
+825:Quality of Service (QoS)
+826:Internet of Things
+827:Visual Basic
+828:Network Architecture
+829:OSPF, ISIS, EIGRP, RIP
+830:PCB Design
+831:Bootstrap
+832:Data Entry
+833:Design graphique
+834:Business Intelligence
+835:Google Material Design
+836:Performance Tuning
+837:Brocade Fibre Switches
+838:Design Sprints
+839:Security
+840:WebSphere Application Server
+841:System Architecture
+842:Audacity
+843:Telecommunications
+844:Hspice
+845:Language Integrated Query (LINQ)
+846:Cadence Schematic Capture
+847:Análisis de negocio
+848:Wireless Mobility
+849:Solid analysis, planning and time management skills as well as communication abi
+850:strategy
+851:Kotlin
+852:Data Analysis
+853:Simulink
+854:Microsoft Project
+855:BPMN
+856:Violin
+857:IS-IS
+858:AWS SageMaker
+859:Agile Transformation
+860:Microwave Links
+861:•	Cisco Switches: Nexus 1k/2k/5k/7k/9k switches.
+862:Artifactory
+863:Mongoose ODM
+864:High Availability
+865:3g
+866:Photoshop
+867:Vulnerability Assessment
+868:React Native
+869:Resource Efficiency
+870:React
+871:Start-up Consulting
+872:ECG interpretation
+873:ETL Tools
+874:MS Project
+875:Cadence Encounter
+876:XSI
+877:Digital Electronics
+878:Nanotechnology
+879:Bitbucket
+880:Problem Solving
+881:FreeRTOS
+882:Video Games
+883:Trading
+884:Graphical Models
+885:Nagios
+886:Security Testing
+887:Digital Sculpting
+888:Microsoft Products
+889:Diameter
+890:Talking Points
+891:Wide Area Network (WAN)
+892:Testrail
+893:Business Process Improvement
+894:SPRING<span class="white-space-pre"> </span>
+895:iOS Development
+896:Optics
+897:Oracle APEX
+898:microsft SQL server
+899:Dogecoin
+900:Genomics
+901:Very-Large-Scale Integration (VLSI)
+902:Spring<span class="white-space-pre"> </span>
+903:Sketching
+904:Negociación
+905:Mechanical Drawings
+906:Load Balancing
+907:Wide experience on test requirements analysis and development of test cases and
+908:8051 Microcontroller
+909:High-speed Signal Integrity
+910:JBoss Application Server
+911:SOAP
+912:UML
+913:Graphics
+914:Hacking
+915:Domain Name System (DNS)
+916:Cell Biology
+917:Android Data Binding
+918:Test Automation
+919:Mobile Marketing
+920:RDMA
+921:Internal Communications
+922:Graph Databases
+923:Game designer
+924:LabVIEW
+925:kotlin
+926:Red privada virtual
+927:Transact-SQL (T-SQL)
+928:Yoman
+929:Big data
+930:Art Direction
+931:Testing
+932:Knowledge and experience on implementing the core network devices 6509 and 450
+933:x86 Assembly
+934:IT Management
+935:French
+936:Power BI
+937:jQuery
+938:Autodesk Inventor
+939:Joomla
+940:Technical Writing
+941:Objectives and Key Results (OKRs)
+942:ISIS
+943:VLAN
+944:c
+945:Operating Systems
+946:Sistemas distribuidos
+947:Always on
+948:modeling
+949:Programmes de conception Adobe
+950:Zend Framework
+951:Team Management
+952:RF Engineering
+953:High Frequency Trading
+954:Lifesciences
+955:Visual Effects
+956:UX Research
+957:Information Technology Security
+958:Reverse Engineering
+959:Data Warehousing
+960:Minitab
+961:Inteligencia empresarial
+962:ESP32
+963:ARM Architecture
+964:DLMS
+965:Computer Networks
+966:NAT
+967:Bugs Hunting
+968:Amazon EC2
+969:Rollout
+970:Python<span class="white-space-pre"> </span>
+971:VirtualBox
+972:Bash
+973:Project Coordination
+974:Simulations
+975:PHP
+976:Firewall Management
+977:Digital Signal Processors
+978:Object Oriented Design
+979:System Testing
+980:Industrial Design
+981:Unity Developer
+982:Process Improvement
+983:Science
+984:Spring Framework
+985:Kafka
+986:Webpack
+987:Product Marketing
+988:WSL
+989:•	Load Balancer Big-IP 3900
+990:Adobe Audition
+991:Tortoise SVN
+992:WCDMA
+993:UV/Vis
+994:Film Production
+995:Event Management
+996:JavaServer Faces (JSF)
+997:PCG
+998:SharePoint
+999:Vulnerability Management
+1000:Optical network
+1001:Syteline ERP
+1002:Node.js
+1003:High Level Design and Low Level Design
+1004:Research and Development (R&amp;D)
+1005:AppDynamics
+1006:Data Structures
+1007:Oracle Applications
+1008:db2 cloud
+1009:Modélisation mathématique
+1010:PySpark
+1011:Oracle Veritabanı
+1012:Voz por protocolo Internet
+1013:Strategic Consulting
+1014:NC-Verilog
+1015:ActionScript
+1016:Rendering
+1017:Inventor
+1018:ElasticSearch
+1019:ARM
+1020:Heroku
+1021:Edtech
+1022:Network Design
+1023:Operations Management
+1024:Debian
+1025:Linux Kernel
+1026:Analog Circuit Design
+1027:Cyber Security Consultancy
+1028:Estrategia
+1029:Universal Mobile Telecommunications System (UMTS)
+1030:Statistics
+1031:Software Testing
+1032:java
+1033:Mirroring
+1034:Postman API
+1035:Stata
+1036:ERTMS
+1037:Xamarin
+1038:jmeter
+1039:Banner Designing
+1040:Competitive Programming
+1041:HACMP
+1042:Vim
+1043:Screening
+1044:Web Service Development
+1045:Pivot Tables
+1046:multisim
+1047:Real-time Data Acquisition
+1048:Firebase
+1049:Root Cause Analysis
+1050:DJing
+1051:Social Networking
+1052:System Integration Testing
+1053:Juniper
+1054:Software
+1055:User Experience (UX)
+1056:Redux.js
+1057:Design Thinking
+1058:Elementary Education
+1059:ASP.NET
+1060:HAZOP Study
+1061:Security Research
+1062:Speech Recognition
+1063:GO<span class="white-space-pre"> </span>
+1064:Web Application Design
+1065:Network Security Compliance
+1066:Selenium Testing
+1067:TensorBoard
+1068:Mechanics
+1069:Knowledge on paloalto firewall deployment and nsx firewall
+1070:SQL Server Management Studio
+1071:Multithreading
+1072:OSPF
+1073:Business Intelligence Tools
+1074:Apache Kafka
+1075:Knowledge and experience on implementing the campus Layer switch 3560X, 3750X,
+1076:Software Architectural Design
+1077:Chrome Extensions
+1078:Smart Grid
+1079:Test Case
+1080:VMware ESX
+1081:GNU/Linux
+1082:Software Quality
+1083:Bug hunter
+1084:VPlex
+1085:Memcached
+1086:Distributed Systems
+1087:WAN
+1088:Windows OS
+1089:- Sécurité Réseaux
+1090:kubernetes
+1091:Wireless Technologies
+1092:Command
+1093:Social Media
+1094:Redseal
+1095:Project Planning
+1096:Open Source
+1097:Adobe Premiere Pro
+1098:OWASP ZAP
+1099:Exploit Analyst<span class="white-space-pre"> </span>
+1100:OpenMP
+1101:Partial Differential Equations
+1102:Malware Analysis
+1103:NS-3
+1104:Security Management
+1105:Graph Theory
+1106:Artificial Intelligence
+1107:BGP, MPBGP
+1108:ITIL
+1109:Information Security
+1110:ARM Cortex-M
+1111:JSON
+1112:Team Building
+1113:ASP.NET Web API
+1114:Dreamweaver
+1115:Network Operations Center (NOC)
+1116:Wireshark
+1117:Cobertura
+1118:Sophos
+1119:Team Spirit
+1120:Cisco IP Telephony Design
+1121:Optical Fiber
+1122:Solidity
+1123:Replication Technologies
+1124:Flash
+1125:Film
+1126:Data Analytics
+1127:Computer Security<span class="white-space-pre"> </span>
+1128:Juniper Technologies
+1129:Embedded Linux
+1130:Derivatives
+1131:Grails
+1132:English
+1133:CEH
+1134:Araştırma
+1135:Pixel Art
+1136:Military Experience
+1137:OS X
+1138:Gestión de proyectos
+1139:Electronics
+1140:css3
+1141:Storyboarding
+1142:Data Modeling
+1143:MEL
+1144:BSC
+1145:Radio
+1146:Troubleshooting
+1147:Capistrano
+1148:- Traitement du Signal
+1149:VPN
+1150:System Design
+1151:Switching Power Supply Design
+1152:Apache Cordova
+1153:Risk Management
+1154:REST
+1155:Wideband Code Division Multiple Access (WCDMA)
+1156:Design Patterns
+1157:Ethical Hacker
+1158:Graphic Design
+1159:Competitive Analysis
+1160:OAuth
+1161:Assembly Language
+1162:Simvision
+1163:Asana
+1164:Microprocessors
+1165:Scalability
+1166:Marketo
+1167:Oracle SQL
+1168:Laravel
+1169:Golang
+1170:Cisco Technologies
+1171:Force Protection
+1172:Pycharm
+1173:ccna
+1174:Signal Processing
+1175:GPRS
+1176:Radiofrecuencia
+1177:Jira
+1178:Analytique
+1179:PCR
+1180:Data Warehouse Architecture
+1181:EDI
+1182:Offshore Operations
+1183:Threat &amp; Vulnerability Management
+1184:Tableau<span class="white-space-pre"> </span>
+1185:Statistiques
+1186:PL/SQL
+1187:Social Network Analysis
+1188:Hp Servers
+1189:Digital Art
+1190:Microsoft Excel
+1191:Spring MVC
+1192:SAS Programming
+1193:Market Research
+1194:Informatica
+1195:Scrum master
+1196:Angular
+1197:Cascading Style Sheets (CSS)
+1198:Public Relations
+1199:Information Retrieval
+1200:Engineering
+1201:Android Studio
+1202:contract management
+1203:Eagle PCB
+1204:MS SQL Server 2008 R2
+1205:network planning
+1206:C#
+1207:Railway Systems
+1208:Bash scripting
+1209:Cryptocurrency
+1210:Réseaux Mobiles
+1211:Microsoft Windows
+1212:Phoenix
+1213:Google Suite
+1214:Business Support System (BSS)
+1215:HTML
+1216:Adobe Animate
+1217:BSS
+1218:Customer Satisfaction
+1219:Security Analysis
+1220:Digital Signal Processing
+1221:Data Privacy
+1222:Mudbox
+1223:Spectrum Analyzer
+1224:Salesforce.com
+1225:JUnit
+1226:Human Resources (HR)
+1227:Matlab
+1228:Time Series Analysis
+1229:HSPA
+1230:Juniper SRX
+1231:UI UX
+1232:Crittografia
+1233:Documentación
+1234:UX Strategy
+1235:NMR
+1236:Proteus
+1237:Amateur Astronomy
+1238:Keynote
+1239:Cloud migration
+1240:Organic Chemistry
+1241:Teradata
+1242:Amazon Web Services (AWS)
+1243:Solutions Architecture
+1244:SQLite
+1245:Vanilla JavaScript
+1246:Requirements Analysis
+1247:Storage Area Networks
+1248:Security Tools(Burp Suite,SQLMAP,Hashcat ...)
+1249:Wireless LAN Controller
+1250:Selenium
+1251:RNC
+1252:IT Strategic Planning
+1253:FL Studio
+1254:SAS Certified Base Programmer
+1255:Verilog(HDL)
+1256:Cloud backup and recovery
+1257:Data Management
+1258:Metasploit Framework
+1259:Architecture
+1260:Craft Beer
+1261:CCSK
+1262:Agile Environment
+1263:JetBrains
+1264:Block Diagrams
+1265:Business Process Management
+1266:Reporting &amp; Analysis
+1267:BGP
+1268:system design
+1269:Infrastructure
+1270:Prometheus
+1271:Anglais
+1272:ASIC
+1273:Poster Design
+1274:.NET Framework
+1275:LAN-WAN
+1276:DevOps
+1277:php
+1278:Css
+1279:Proje Planlama
+1280:IT Service Management
+1281:Mathematics
+1282:Communication Skills
+1283:Artifical Intelligence<span class="white-space-pre"> </span>
+1284:Design Verification Testing
+1285:Design
+1286:SCORM
+1287:XSS
+1288:CCNP R&amp;S
+1289:Database Design
+1290:研究
+1291:After Effects
+1292:Completion
+1293:Enterprise Systems Implementation
+1294:Communication
+1295:Numerical Analysis
+1296:Strategic Sourcing
+1297:Image Analysis and Stitching
+1298:Edge
+1299:Burp Suite
+1300:Blogging
+1301:Predictive Modeling
+1302:Econometrics
+1303:Urdu
+1304:RFID
+1305:Information Architecture
+1306:RAN
+1307:Data Mining and Visualization, Statistical Analysis
+1308:AWS CloudFormation
+1309:Printed Circuit Board (PCB) Design
+1310:Open Shortest Path First (OSPF)
+1311:Marine Industry
+1312:Protocol Label Switching (MPLS)
+1313:Adobe Fireworks
+1314:Internet of Things (IoT)
+1315:•	Clear Understanding of Cisco AS Life Cycle Service Approach including System I
+1316:servlets
+1317:Bilgisayar Güvenliği
+1318:AJAX
+1319:CISSP
+1320:VB.NET
+1321:OWASP
+1322:Sales
+1323:SCSS
+1324:Algorithmic Trading
+1325:Java Database Connectivity (JDBC)
+1326:C<span class="white-space-pre"> </span>
+1327:system verilog
+1328:Cisco packet tracer
+1329:persian
+1330:Spanning Tree
+1331:- Propagation Libre
+1332:Alteryx
+1333:Security Awareness
+1334:Border Gateway Protocol (BGP)
+1335:Business Intelligence (BI)
+1336:SCRUM
+1337:Microsoft PowerPoint
+1338:Enterprise Software
+1339:Elixir
+1340:Data Structure
+1341:Mobile Application Testing
+1342:Azure
+1343:IBM Cloud
+1344:Ethereum
+1345:Ruby
+1346:Coding: Matlab, Python, R, Hadoop, MapReduce, LabView, C++
+1347:tdd
+1348:TCP/IP
+1349:Mixed Reality
+1350:Writing
+1351:3GPP
+1352:Aviation
+1353:Entity Framework (EF) Core
+1354:HSRP
+1355:EMS
+1356:Cisco UCS
+1357:2D graphics
+1358:Tensorflow
+1359:NetBSD
+1360:SAS Base
+1361:Scripting
+1362:Design Compiler
+1363:Altium Designer
+1364:Full-Stack Development
+1365:Metasploit
+1366:Visual Studio
+1367:UWP developer
+1368:Analog Circuits
+1369:Oracle ASM
+1370:MapInfo
+1371:SDSV
+1372:Pspice
+1373:PMI
+1374:Computer Security
+1375:Sistemas operacionais
+1376:Angular Material
+1377:User Interface Prototyping
+1378:Virtual Reality (VR)
+1379:Html
+1380:plsql
+1381:Finance
+1382:NetBeans
+1383:Computer Graphics
+1384:Image Editing
+1385:Internet Protocol (IP)
+1386:Product Management
+1387:IBM AIX
+1388:CCNP
+1389:Chisel
+1390:Pandas (Software)
+1391:Carrier Ethernet
+1392:Keras
+1393:Enterprise Architecture
+1394:Wireless Sensor Networks
+1395:JavaScript eXtension (JSX)
+1396:SOA
+1397:IBM Tivoli Monitoring
+1398:Vulnerability Scanning
+1399:PKI
+1400:ASA
+1401:Text Mining
+1402:PCI DSS
+1403:AVR
+1404:SSH
+1405:Android Jetpack
+1406:Budget Management
+1407:Managed Services
+1408:Tivoli Enterprise Portal
+1409:Augmented Reality (AR)
+1410:Illustrator
+1411:Unreal Engine 4
+1412:Customer Relationship Management (CRM)
+1413:Work Under Minimal Supervision
+1414:Couchbase
+1415:Telecomunicações
+1416:Computer Hardware Troubleshooting
+1417:Critical Thinking
+1418:Circuit Design
+1419:NetApp Filers
+1420:Penetration Tester
+1421:IT-Management
+1422:CoventorWare
+1423:EIGRP
+1424:Seguridad
+1425:Telekomünikasyon
+1426:Afghanistan
+1427:etl
+1428:Speeching skills<span class="white-space-pre"> </span>
+1429:Image Processing
+1430:Amazon EKS
+1431:Hyper-V
+1432:Raspberry Pi
+1433:•	Optimization: WAAS
+1434:Microsoft Azure
+1435:Git
+1436:Service-Oriented Architecture (SOA)
+1437:Liderazgo de equipos
+1438:recruiter
+1439:Team Leadership
+1440:Chef
+1441:ETCS
+1442:Data Quality
+1443:Soft Skills
+1444:RUP
+1445:JCL
+1446:Backtrack
+1447:Numerical Computing
+1448:Wireless Communications
+1449:Praat
+1450:MCITP
+1451:deep reinforcement learning
+1452:Algorithm Analysis
+1453:Computer Science
+1454:Dynamic Positioning
+1455:Checkpoint
+1456:analysis
+1457:Cyber security
+1458:RTL Design
+1459:Phyton
+1460:Differential Equations
+1461:CentOS
+1462:Analytical Skills
+1463:ESXI 6.7
+1464:Life Sciences
+1465:CMS
+1466:Amateur Photography
+1467:Entrepreneurship
+1468:Bazy danych Oracle
+1469:International Business Development
+1470:Marketing Strategy
+1471:University Teaching
+1472:Art
+1473:Differential Geometry
+1474:Release Engineering
+1475:Netsim
+1476:Information Assurance
+1477:Mobile Rooting
+1478:Preventive Maintenance
+1479:unity
+1480:Coaching
+1481:SystemVerilog
+1482:Python (Programming Language)
+1483:Checkpoint Security
+1484:Rhino
+1485:Assurance qualité logiciel
+1486:Optical Network
+1487:Site Reliability Engineering
+1488:Javascript
+1489:Persona
+1490:Red de área de almacenamiento
+1491:.NET Core
+1492:Core Network
+1493:Bug Tracking
+1494:Eclipse
+1495:Microsoft Technologies
+1496:Database Administration
+1497:Apache
+1498:Cyber Security Analyst
+1499:Optimizations
+1500:Relational Databases
+1501:Voz sobre IP (VoIP)
+1502:Vulnerability Research
+1503:Competitive programming
+1504:PyTorch
+1505:InfluxDB
+1506:Ağ Yönetimi
+1507:Kibana
+1508:SPICE
+1509:HP-UX
+1510:Linux Server
+1511:Squish
+1512:Android Development
+1513:Radware
+1514:Docker Products
+1515:T-SQL
+1516:Lean Management
+1517:HP Accredited Integration Specialist. Load Runner v11
+1518:Volleyball
+1519:HiveQL
+1520:•	Extensively involved in the pre-sales opportunities
+1521:Virtualization
+1522:Amazon ECS
+1523:Kernel Programming
+1524:COBIT
+1525:Web developing
+1526:IaaS
+1527:SQL Server Reporting Services (SSRS)
+1528:KVM
+1529:Juniper Networks Products
+1530:Principle
+1531:FPGA
+1532:MPLS, MPLS-TP, MPLS VPN
+1533:Mobile Applications
+1534:Django REST Framework
+1535:GSM-R
+1536:Peneteration Testing
+1537:Front-end Coding
+1538:IP
+1539:OpenGL Shading Language (GLSL)
+1540:Sequelize
+1541:Oracle Enterprise Manager
+1542:Regression Testing
+1543:Application Security
+1544:High-Performance Liquid Chromatography (HPLC)
+1545:Astronomy Teacher
+1546:Cisco Firewall Security
+1547:Basic HTML
+1548:Rapid Prototyping
+1549:Cisco VPN
+1550:Software Analysis
+1551:Mobile Application Design
+1552:Perl
+1553:Core Java
+1554:SAP
+1555:Nuclear Magnetic Resonance (NMR)
+1556:Chai
+1557:Unix Shell Scripting
+1558:Node
+1559:G8
+1560:Angular<span class="white-space-pre"> </span>
+1561:HIPAA
+1562:- Introduction 5G
+1563:Weapons
+1564:Développement de logiciels
+1565:NoSQL
+1566:Huawei M2000
+1567:Game Programming
+1568:dualboot
+1569:Jest
+1570:Game Art
+1571:PMP
+1572:User Stories
+1573:Embedded C
+1574:2G
+1575:PowerPoint
+1576:Socket Programming
+1577:Atmel Studio 6
+1578:Qt
+1579:E-commerce
+1580:Mocha
+1581:RSpec
+1582:Internet Explorer
+1583:Next.js
+1584:Encounter
+1585:SQL DB2
+1586:Administración de sistemas Linux
+1587:ADS cadence
+1588:VoLTE
+1589:Log drive full issue
+1590:Back-End Web Development
+1591:Computer Network Operations
+1592:Unity3D
+1593:Vagrant
+1594:Hardware Architecture
+1595:WCF Services
+1596:Mounting and implementing the HP DL server and enclosures
+1597:AWS Glue
+1598:SQL Server Integration Services (SSIS)
+1599:Knowledge and experience on implementing Core switch Nexus 7K / 5K and Nexus 1
+1600:Experience working with programming languages like: Java and C++
+1601:Amazon S3
+1602:Security Incident Response
+1603:Visual C#
+1604:Programming Languages
+1605:Economics
+1606:Information Theory
+1607:Soporte técnico
+1608:Bases de datos
+1609:Prolog
+1610:Hyperlynx
+1611:Guitarist
+1612:Rigging
+1613:GIT
+1614:Character Animation
+1615:UI
+1616:VMware NSX
+1617:Apache Spark
+1618:Paper Prototyping
+1619:Flask
+1620:Character Rigging
+1621:React.js
+1622:Video
+1623:Lecturing
+1624:RF
+1625:Healthcare
+1626:Agile &amp; Waterfall Methodologies
+1627:Check Point
+1628:Fortinet
+1629:Finite Element Analysis
+1630:Community Outreach
+1631:Sonicwall
+1632:Telecomunications
+1633:Smart Working
+1634:Universal Verification Methodology (UVM)
+1635:Spring Boot
+1636:MERN Stack
+1637:Windows
+1638:Mockups
+1639:Business Analysis
+1640:SQL Tuning
+1641:Docker
+1642:Computer Gaming
+1643:C
+1644:Oil &amp; Gas Industry
+1645:TDD
+1646:IBM BPM
+1647:CompTIA Security+
+1648:Data Scraping
+1649:Cybersecurity
+1650:Unity
+1651:Cyber-security Consultant
+1652:Cocoa
+1653:HPLC
+1654:Team Development
+1655:XML
+1656:Strategic Planning
+1657:Web Application Security
+1658:ASP.NET MVC
+1659:HTML5
+1660:Cisco Systems Products
+1661:Research Design
+1662:CCNA R&amp;S
+1663:MATLAB
+1664:HTTPS
+1665:HTTP
+1666:Google Kubernetes Engine (GKE)
+1667:HDFS
+1668:Mobile Advertising
+1669:Layout
+1670:Seguridad de red
+1671:CSS Grid Layout
+1672:Cisco Routers
+1673:Samba
+1674:AIX
+1675:MT7688
+1676:COBOL
+1677:Video Production
+1678:Css3
+1679:Multimedia
+1680:CSS Flexbox
+1681:Proteus (Digital Logic and PCB Design)
+1682:STP
+1683:Elasticsearch
+1684:Multisim
+1685:Scrum Master
+1686:OEM Management
+1687:Computer Vision
+1688:TensorFlow
+1689:CDMA
+1690:DWDM
+1691:Xcode<span class="white-space-pre"> </span>
+1692:Talend Open Studio
+1693:Data Visualization
+1694:Sales Management
+1695:SAP ERP
+1696:Game Mechanics
+1697:Debugging
+1698:算法
+1699:Quantitative Finance
+1700:ESP32 Microcontrollers
+1701:Computer-Aided Design (CAD)
+1702:Strategy
+1703:Ethernet
+1704:CA Release Automation(nolio)
+1705:Organic Synthesis
+1706:Struts
+1707:Process Automation
+1708:Technical Support
+1709:ansible
+1710:Yii2
+1711:Oracle RDBMS
+1712:Functional Verification
+1713:Site web adaptatif
+1714:Unit Testing
+1715:OWASP Top 10
+1716:Electronic Warfare
+1717:LTE (Evolução a longo prazo)
+1718:Additive Manufacturing
+1719:c#
+1720:Rhino 3D
+1721:Flutter
+1722:SASS
+1723:- Routage
+1724:HSRP, VRRP, GLBP
+1725:Amazon Elastic MapReduce (EMR)
+1726:Mobile Technology
+1727:NLP
+1728:Go-to-market Strategy
+1729:Solaris
+1730:Virtual Prototyping
+1731:Apache Pig
+1732:MPLS
+1733:WiMAX
+1734:Verilog
+1735:Analytics
+1736:Cisco Wireless
+1737:Teamwork
+1738:Product Lifecycle Management
+1739:Typography
+1740:Mentor Graphics
+1741:Kanban
+1742:User Interface Design
+1743:Application-Specific Integrated Circuits (ASIC)
+1744:R
+1745:Model Making
+1746:Administración y dirección de empresas
+1747:JUNOS
+1748:Digital Sketching
+1749:Mobile Computing
+1750:Functional Programming
+1751:Pentesting
+1752:Kali Linux
+1753:Instructional Design
+1754:Network Troubleshooting
+1755:LUM
+1756:Analysis
+1757:Swift Language
+1758:Computer Forensics
+1759:WiFi
+1760:Lua
+1761:Surveillance
+1762:LESS (Stylesheet Language)
+1763:xillinx ise
+1764:R 语言
+1765:Wireless Routers
+1766:Computer Programming
+1767:Photography
+1768:Gitlab-ci
+1769:MicroStation
+1770:Secure Code Review
+1771:Experience Design
+1772:Signaling System 7 (SS7)
+1773:ModelSim
+1774:Openshift
+1775:Moodle
+1776:Oracle
+1777:Oilfield
+1778:IIS
+1779:RF Test
+1780:Virtualisierung
+1781:Information Technology
+1782:Core Knowledge and experience on configure and implement the Cisco Wireless sy
+1783:vCenter Server
+1784:Pre-sales
+1785:organized
+1786:NSN
+1787:Trabajo en equipo
+1788:Puppet
+1789:High Throughput Computing
+1790:Nexus
+1791:Cloud Computing
+1792:Laboratory
+1793:HTML 5
+1794:Plataformas wireless
+1795:Pazarlama Stratejisi
+1796:Protection
+1797:SQL
+1798:Boost C++
+1799:Applied Mathematics
+1800:Clustering
+1801:Mathematica
+1802:Architectures
+1803:JavaServer Pages (JSP)
+1804:ELISA
+1805:Data Center
+1806:Agile Testing
+1807:User Experience Design (UED)
+1808:Radio Frequency (RF)
+1809:Babel
+1810:CCIE
+1811:Blender
+1812:Gitlab
+1813:- Réseaux Pile TCP/IP
+1814:Web Analytics
+1815:Conception web
+1816:Adobe Creative Cloud
+1817:Gel Electrophoresis
+1818:IT Strategy
+1819:Customer Requirements
+1820:MapReduce
+1821:Cisco-Certified Design Associate (CCDA)
+1822:Oracle RAC
+1823:IT-Strategie
+1824:MIPS, ARM, X86
+1825:RabbitMQ
+1826:DNS
+1827:Concept Development
+1828:Labview
+1829:Scrum
+1830:Digital IC Design
+1831:Cisco Networking
+1832:Containerization
+1833:İş Stratejisi
+1834:UX writing
+1835:Product Innovation
+1836:Firewalls
+1837:SAP Products
+1838:Project Manager
+1839:Information Security Management
+1840:Negotiation
+1841:F5 BigIP
+1842:Digital Marketing
+1843:.NET
+1844:Servlets
+1845:Materials Science
+1846:Projektmanagement
+1847:Telephony
+1848:Deep learning
+1849:Stratejik Planlama
+1850:ITIL Certified
+1851:MonoDevelop
+1852:Branding
+1853:Requirements Management
+1854:Continuous Integration
+1855:Natural Language Processing (NLP)
+1856:UDK
+1857:Unix
+1858:WordPress
+1859:emc recovery point
+1860:Virtual Private Network (VPN)
+1861:SolidWorks
+1862:Web 2.0
+1863:•	Project Management
+1864:Low Voltage
+1865:Rest Assured
+1866:Red Hat Linux
+1867:Abaqus
+1868:Nuclear Engineering
+1869:Tailwind CSS
+1870:verilog
+1871:Computer System Validation
+1872:Capability Maturity Model Integration (CMMI)
+1873:Decision-Making
+1874:Compilers
+1875:yocto
+1876:Replication
+1877:Configuration Management
+1878:Offshore Drilling
+1879:Analyse de données
+1880:SAP Business Objects Data Services
+1881:Test Planning
+1882:Azure DevOps
+1883:SUSE Linux Enterprise Server (SLES)
+1884:802.1x
+1885:Graphic Illustrations
+1886:Server Migration
+1887:Software as a Service (SaaS)
+1888:Mobile Application Pentesting
+1889:Crystal Reports
+1890:GSM (Mobil İletişim İçin Küresel Sistem)
+1891:IT Controls
+1892:Cisco ISE
+1893:Logstash
+1894:Virtualización
+1895:pandas
+1896:Heterogeneous Networks
+1897:Field Hockey
+1898:Haskell
+1899:Active Learning
+1900:ASP.Net
+1901:Data Collection
+1902:Active Directory
+1903:JavaScript
+1904:UX Design
+1905:Google Cloud Platform (GCP)
+1906:Python
+1907:Accounting
+1908:Cisco Call Manager
+1909:Mininet
+1910:Sustainable Development
+1911:Financial Analysis
+1912:Apache Ant
+1913:Systems Design
+1914:Test Driven Development
+1915:IT Infrastructure Operations
+1916:JAVA
+1917:Knowledge and experience on implementing and configuration of Security PIX , A
+1918:bug bounty hunting
+1919:Sicurezza delle applicazioni Web
+1920:Adobe Illustrator
+1921:Data Governance
+1922:AngularJS
+1923:Arduino IDE
+1924:Programmation
+1925:Computational Biology
+1926:Vuforia Augmented Reality SDK
+1927:Mongoose
+1928:JIRA
+1929:Team Motivation
+1930:VMware vSphere
+1931:hcia R&amp;s<span class="white-space-pre"> </span>
+1932:STM32
+1933:Motivational Speaking
+1934:Jira Service Desk
+1935:Corporate Identity
+1936:Machinations
+1937:CCIE R&amp;S
+1938:Juniper Firewall
+1939:Usability
+1940:Formulation
+1941:Program Management
+1942:Inglês
+1943:SWIFTNet
+1944:Information Risk
+1945:Experience working with testing tools: Load Runner and Rational Performance Test
+1946:Scaled Agile Framework
+1947:Cisco Certified Internetwork Expert (CCIE)
+1948:Machine Learning
+1949:Integrated Circuit Design
+1950:Vue.js
+1951:Administracja bazami danych
+1952:Investigation
+1953:Windows Security
+1954:Project Management Office (PMO)
+1955:Computer Engineering
+1956:gRPC
+1957:Nodejs
+1958:SaaS
+1959:Spanish
+1960:R&amp;D
+1961:JFrog Software
+1962:Digital Image Processing
+1963:Software Product Management
+1964:CUDA
+1965:Video Coding
+1966:Radiocomunicación
+1967:Clinical Research
+1968:Numerical Simulation
+1969:Spark
+1970:sql
+1971:Netfilter
+1972:Game Development
+1973:SAP HANA
+1974:Internal Audit
+1975:PSD to Wordpress
+1976:ETL
+1977:HackerOne Pentest
+1978:Service-Level Agreements (SLA)
+1979:Web Design
+1980:Scala
+1981:Mentoring<span class="white-space-pre"> </span>
+1982:Big Data<span class="white-space-pre"> </span>
+1983:NI LabVIEW
+1984:Extract, Transform, Load (ETL)
+1985:Integration
+1986:Adobe Photoshop
+1987:API Development
+1988:ES6
+1989:Customer Relations
+1990:Business Management
+1991:software engineering
+1992:Concept Art
+1993:Networking
+1994:Cyber Defense
+1995:Supply chain
+1996:iPhone Application Development
+1997:Parallel Programming
+1998:DHCP
+1999:Cisco Nexus
+2000:Ağ Güvenliği
+2001:New Business Development
+2002:Logistics
+2003:AWS Lambda
+2004:Marketing digital
+2005:Powershell
+2006:HTML/CSS/Bootstrap
+2007:System Deployment
+2008:synopsys design compiler
+2009:Jenkins
+2010:Computer Networking
+2011:Microsoft Exchange
+2012:Oracle SQL Developer
+2013:Information Security Engineering
+2014:Wondershare Filmora
+2015:InVision
+2016:Data visualization
+2017:Red privada virtual (VPN)
+2018:Music Production
+2019:Python Programing
+2020:User Research
+2021:Network Engineering
+2022:GitHub
+2023:Lawful Interception
+2024:Red Team
+2025:Computational Materials Science
+2026:Dashboard
+2027:android
+2028:Zbrush
+2029:Continuous Improvement
+2030:Medical Imaging

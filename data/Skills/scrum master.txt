@@ -1,0 +1,118 @@
+0:Risk Management
+1:Customer Relationship Management (CRM)
+2:IT Service Management
+3:Design Patterns
+4:Business Requirements
+5:Web Development
+6:Mobile Applications
+7:Vendor Management
+8:JavaScript
+9:Business Development
+10:Management
+11:Business Agility
+12:Python
+13:Database Design
+14:CSS
+15:XML
+16:Asana
+17:Accounting
+18:Strategic Planning
+19:Marketo
+20:HTML5
+21:HTML 5
+22:Strategic Sourcing
+23:Cordinate
+24:User Experience (UX)
+25:Jira
+26:Project Management Body of Knowledge (PMBOK)
+27:Internal Communications
+28:Team Leadership
+29:JIRA
+30:RUP
+31:Microsoft Excel
+32:SAS Programming
+33:AJAX
+34:Public Relations
+35:Planning
+36:contract management
+37:User Stories
+38:MCITP
+39:Scaled Agile Framework
+40:jQuery
+41:PowerPoint
+42:Software Development
+43:Objectives and Key Results (OKRs)
+44:E-commerce
+45:Scrum
+46:Microsoft PowerPoint
+47:Web Applications
+48:Project Management Office (PMO)
+49:Voice Acting
+50:International Law
+51:Analytical Skills
+52:Project Management
+53:Project Planning
+54:Social Media
+55:Systems Engineering
+56:HTML
+57:CMS
+58:Linux
+59:SDLC
+60:International Business Development
+61:Marketing Strategy
+62:Data Entry
+63:PRINCE2
+64:Agile
+65:Agile Methodologies
+66:LAMP
+67:Business Process Design
+68:Research
+69:Matlab
+70:Project Coordination
+71:Mechanical Engineering
+72:Team Building
+73:PHP
+74:Coaching
+75:Software Development Life Cycle (SDLC)
+76:Microsoft Word
+77:Service-Level Agreements (SLA)
+78:MySQL
+79:Web Design
+80:WordPress
+81:Microsoft Office
+82:Integration
+83:SEO
+84:Teamwork
+85:Data Analysis
+86:Networking
+87:Microsoft Project
+88:Kanban
+89:Product Development
+90:BPMN
+91:Creative Writing
+92:Software Project Management
+93:Abaqus
+94:Customer Service
+95:Requirements Analysis
+96:Agile Transformation
+97:Web Services
+98:Capability Maturity Model Integration (CMMI)
+99:Photoshop
+100:Transaction analysis
+101:Agile Project Management
+102:Strategic Consulting
+103:Agile Environment
+104:Business Process Automation
+105:OOP
+106:Business Analysis
+107:SOA
+108:Watercolor
+109:Business Process Management
+110:Digital Photography
+111:Reporting &amp; Analysis
+112:Java
+113:Marketing
+114:Android Development
+115:IBM BPM
+116:Lean Management
+117:Business Process Improvement

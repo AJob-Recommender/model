@@ -1,0 +1,271 @@
+0:Data Migration
+1:Human Resources Information Systems (HRIS)
+2:Statistics
+3:iOS Development
+4:Pattern Recognition
+5:Risk Management
+6:Software Testing
+7:Oracle
+8:java
+9:Control Systems Design
+10:Mathematics
+11:Web Development
+12:C++
+13:Reinforcement Learning
+14:Management Consulting
+15:JavaScript
+16:Modeling
+17:HPLC
+18:Software Engineering
+19:Management
+20:Google Cloud Platform (GCP)
+21:Teaching
+22:Python
+23:CSS
+24:XML
+25:Strategic Planning
+26:Cloud Computing
+27:Laboratory
+28:Pivot Tables
+29:Numerical Analysis
+30:Artificial Intelligence (AI)
+31:Financial Modeling
+32:Regression Testing
+33:Reservoir Engineering
+34:Image Analysis and Stitching
+35:Laravel
+36:Predictive Modeling
+37:Social Networking
+38:Econometrics
+39:SQL
+40:High-Performance Liquid Chromatography (HPLC)
+41:R Programming
+42:ERP
+43:Consulting
+44:SAS
+45:Signal Processing
+46:Mathematica
+47:Image Processing
+48:Data Mining and Visualization, Statistical Analysis
+49:Software Analysis
+50:Computational Biology
+51:Algorithms
+52:MongoDB
+53:SPSS
+54:Git
+55:Core Java
+56:Nuclear Magnetic Resonance (NMR)
+57:Quantitative Analytics
+58:Hadoop
+59:Team Leadership
+60:ELISA
+61:Object-Oriented Programming (OOP)
+62:QlikView
+63:Solution Architecture
+64:RUP
+65:PL/SQL
+66:Data Science
+67:VBA
+68:Maple
+69:Microsoft Excel
+70:Redis
+71:Transact-SQL (T-SQL)
+72:NoSQL
+73:Chemistry
+74:Forecasting
+75:Neural Networks
+76:Market Research
+77:Web Analytics
+78:Informatica
+79:NMR spectroscopy
+80:Computer Vision
+81:Swift
+82:Hive
+83:Cascading Style Sheets (CSS)
+84:Formulation
+85:Wireless Communications
+86:MapReduce
+87:TensorFlow
+88:Apache Kafka
+89:Plotly
+90:Java Database Connectivity (JDBC)
+91:Amazon QuickSight
+92:Information Retrieval
+93:Engineering
+94:Data Visualization
+95:Statistical Data Analysis
+96:Alteryx
+97:Data Integration
+98:Physics
+99:Software Development
+100:PowerPoint
+101:CAML
+102:Quantitative Finance
+103:Machine Learning
+104:Vue.js
+105:Optimization
+106:Distributed Systems
+107:Scrum
+108:C#
+109:Business Intelligence (BI)
+110:Tableau
+111:Leadership
+112:Computer Science
+113:Computer Engineering
+114:LaTeX
+115:Event Planning
+116:Microsoft Access
+117:GraphQL
+118:Biomedical Engineering
+119:Organic Synthesis
+120:Game Design
+121:Shell Scripting
+122:Analytical Skills
+123:PostgreSQL
+124:django
+125:ansible
+126:AutoCAD
+127:Project Management
+128:Social Media
+129:Credit Risk
+130:Life Sciences
+131:HTML
+132:Team Management
+133:Linux
+134:Predictive Analytics
+135:Unity3D
+136:html
+137:Entrepreneurship
+138:Digital Signal Processing
+139:Visual Basic
+140:SDLC
+141:Data Warehousing
+142:Marketing Strategy
+143:Minitab
+144:C (Programming Language)
+145:Data Mining
+146:Business Intelligence
+147:Coding: Matlab, Python, R, Hadoop, MapReduce, LabView, C++
+148:Pharmaceutics
+149:Big Data Analytics
+150:Clinical Research
+151:Writing
+152:Spark
+153:Graph Theory
+154:Artificial Intelligence
+155:Assay Development
+156:AWS Glue
+157:Databases
+158:ITIL
+159:Amazon S3
+160:Research
+161:Matlab
+162:Molecular Biology
+163:Time Series Analysis
+164:Game Development
+165:Simulations
+166:css
+167:Information Theory
+168:Visual Basic for Applications (VBA)
+169:PHP
+170:Natural Language Processing (NLP)
+171:Orcad
+172:Cassandra db
+173:Public Speaking
+174:Recommender Systems
+175:ETL
+176:Microsoft SQL Server
+177:Unix
+178:Microsoft Word
+179:Hspice
+180:Fortran
+181:MySQL
+182:Scripting
+183:Operations Research
+184:Object Oriented Design
+185:Machine Learning Algorithms
+186:Python (Programming Language)
+187:Scala
+188:VHDL
+189:Science
+190:NMR
+191:Proteus
+192:Microsoft Office
+193:Mainframe
+194:Weka
+195:Extract, Transform, Load (ETL)
+196:Analytics
+197:Deep Learning
+198:Teamwork
+199:Verilog
+200:Organic Chemistry
+201:Data Analysis
+202:Javascript
+203:Amazon Web Services (AWS)
+204:Simulink
+205:Monte Carlo Simulation
+206:Artificial Neural Networks
+207:Business Strategy
+208:Apache Spark
+209:Windows Azure
+210:ANSYS
+211:Supply chain
+212:Pig
+213:E-Learning
+214:UV/Vis
+215:Flask
+216:Eclipse
+217:Pspice
+218:Abaqus
+219:R
+220:Requirements Analysis
+221:React.js
+222:Derivatives
+223:SharePoint
+224:Drug Discovery
+225:Agile &amp; Waterfall Methodologies
+226:AWS SageMaker
+227:Finite Element Analysis
+228:AWS Lambda
+229:Pharmaceutical Industry
+230:Node.js
+231:Representational State Transfer (REST)
+232:English
+233:Django
+234:Data Structures
+235:PyTorch
+236:Business Analytics
+237:IBM DB2
+238:Windows
+239:Analyse de données
+240:Analysis
+241:Statistical Modeling
+242:Clinical Decision Support
+243:Python Programing
+244:Pandas (Software)
+245:MS Project
+246:Keras
+247:Data Modeling
+248:Business Analysis
+249:GitHub
+250:SPICE
+251:ElasticSearch
+252:Big Data
+253:SOA
+254:Jupyter
+255:Docker
+256:Ansible
+257:Google BigQuery
+258:Reporting &amp; Analysis
+259:Natural Language
+260:C
+261:Java
+262:Trading
+263:Database Queries
+264:Mathematical Modeling
+265:Android Development
+266:Docker Products
+267:Medical Imaging
+268:Programming
+269:docker
+270:.NET Framework

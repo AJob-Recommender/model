@@ -1,0 +1,223 @@
+0:iptables
+1:Routing Protocols
+2:Virtualization
+3:IPSec
+4:CRM
+5:Cybersecurity
+6:IT Service Management
+7:Juniper Networks Products
+8:DHCP server
+9:Sourcing
+10:Active Directory
+11:C++
+12:JavaScript
+13:SWITCHING
+14:Hardware
+15:FTP
+16:Management
+17:Mobile Security
+18:Python
+19:CCNP R&amp;S
+20:Seguridad
+21:IP
+22:Web Application Security
+23:Servers
+24:Cloud Computing
+25:Public Key Infrastracture(PKI)
+26:Communication
+27:Cisco Systems Products
+28:Cisco Technologies
+29:Proxy
+30:CCNA R&amp;S
+31:Exadata
+32:Protection
+33:SQL
+34:Penetration Testing
+35:HTTPS
+36:Telecomunicaciones
+37:Juniper
+38:Force Protection
+39:Cryptography
+40:ccna
+41:Almacenamineto
+42:Domain Name System (DNS)
+43:Seguridad de red
+44:Core Java
+45:Open Shortest Path First (OSPF)
+46:recruiter
+47:Secure Network Architecture
+48:Team Leadership
+49:Cisco Routers
+50:Linux System Administration
+51:Network Administration
+52:VMware vSphere
+53:Data Center
+54:Exploit Development(103)
+55:CCNA
+56:Ccna ccnp ccie running
+57:Network Security Compliance
+58:Human Resources
+59:CCSP
+60:WLAN
+61:Microsoft Excel
+62:Red privada virtual
+63:CCNP Certified
+64:Testing
+65:CCIE R&amp;S
+66:Juniper Firewall
+67:Sales
+68:OSPF
+69:Dynamic Host Configuration Protocol (DHCP)
+70:IT Management
+71:SWIFTNet
+72:Oracle Collaboration Suite
+73:Spanning Tree
+74:PowerPoint
+75:Socket Programming
+76:Cisco Certified Internetwork Expert (CCIE)
+77:DNS
+78:Technical Writing
+79:Border Gateway Protocol (BGP)
+80:router, networking<span class="white-space-pre"> </span>
+81:Switches
+82:C#
+83:VLAN
+84:WAN
+85:Microsoft PowerPoint
+86:Asistencia técnica
+87:Investigation
+88:OCI
+89:Leadership
+90:Cisco Networking
+91:salenium
+92:Ethernet
+93:Firewalls
+94:Microsoft Windows
+95:analysis
+96:Checkpoint
+97:Windows Server
+98:Operating Systems
+99:F5 BigIP
+100:Shell Scripting
+101:Technical Support
+102:Project Management
+103:Project Planning
+104:RIP
+105:IBM Cloud
+106:Redseal
+107:HTML
+108:MPLS VPN
+109:Team Management
+110:Switching
+111:Training
+112:Linux
+113:Entrepreneurship
+114:Cisco IOS
+115:Quality of Service (QoS)
+116:Customer Satisfaction
+117:Cisco Switch
+118:Network Security
+119:Red Hat Enterprise Linux (RHEL)
+120:Tufin
+121:ITIL Certified
+122:Network Deployment
+123:Cisco Router<span class="white-space-pre"> </span>
+124:TCP/IP
+125:ITIL
+126:Information Security
+127:Research
+128:Redes informáticas
+129:PIX
+130:EMS
+131:Firewall Administration
+132:Security
+133:3G
+134:ACL Management
+135:Juniper SRX
+136:Soporte técnico
+137:PHP
+138:Telecommunications
+139:Security+
+140:Public Speaking
+141:Wireless Networking
+142:Firewall Management
+143:Microsoft SQL Server
+144:Bluecoat
+145:Microsoft Word
+146:Network Operations Center (NOC)
+147:Knowledge of Network communication Protocols
+148:Http
+149:Wireshark
+150:MySQL
+151:Citrix
+152:Python (Programming Language)
+153:Military
+154:Sophos
+155:Checkpoint Security
+156:MPLS
+157:WiMAX
+158:Microsoft Office
+159:Metasploit
+160:Virtual Private Network (VPN)
+161:Cisco ASA
+162:Disaster Recovery
+163:Internet Protocol Suite (TCP/IP)
+164:Cisco
+165:Networking
+166:Red de área de almacenamiento
+167:Multiprotocol Label Switching (MPLS)
+168:Core Network
+169:Red Hat Linux
+170:Customer Service
+171:DHCP
+172:Juniper Technologies
+173:Cisco Nexus
+174:Computer Security
+175:VMware
+176:Vulnerability Management
+177:System Administration
+178:Check Point
+179:Fortinet
+180:Security Tools(Burp Suite,SQLMAP,Hashcat ...)
+181:Time Management
+182:System Deployment
+183:Computer Networking
+184:Secure Sockets Layer (SSL)
+185:Websense
+186:CEH
+187:Oracle Applications
+188:Software Installation
+189:CCNP
+190:Network Troubleshooting
+191:Windows
+192:Red privada virtual (VPN)
+193:Voz por protocolo Internet
+194:Network Technologies
+195:Oracle E-Business Suite
+196:Routers
+197:WiFi
+198:IPv6
+199:CCSK
+200:Intrusion Detection
+201:Network Engineering
+202:Enterprise Architecture
+203:Surveillance
+204:Docker
+205:Linux Server
+206:Ansible
+207:BGP
+208:C
+209:Java
+210:Troubleshooting
+211:Network Design
+212:PCI DSS
+213:IPTV
+214:Mobile Application Pentesting
+215:Radware
+216:VPN
+217:Routing
+218:Palo Alto Networks
+219:Wide Area Network (WAN)
+220:NetOp
+221:LAN-WAN
+222:Virtualización
