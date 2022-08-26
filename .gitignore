@@ -1,3 +1,6 @@
 .idea/
 .ipynb_checkpoints/
 .deleted_data/
+datasets/
+dataframe/
+
